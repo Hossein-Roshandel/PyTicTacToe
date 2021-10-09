@@ -14,6 +14,10 @@ After the installation is successful, you can play the game by the following com
 python main.py
 ```
 
+## Contribution:
+Link to Codebeat Automated Code Reviewer
+[![codebeat badge](https://codebeat.co/badges/d8f28108-333e-4988-86b2-e5851095cf1d)](https://codebeat.co/projects/github-com-hossein-roshandel-pytictactoe-main)
+
 ## Resources:
 To learn more about the minimax and pruning with alpha and beta, you may refer to the following resources:
 * [MIT Lecture about Adversarial Games, Minimax and Pruning](https://www.youtube.com/watch?v=STjW3eH0Cik)
